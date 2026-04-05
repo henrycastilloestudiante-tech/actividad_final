@@ -3,4 +3,4 @@
 Sistema usando POO en Python.
 
 ## Ejecutar:
-python main.py
+Run phyton en el main
